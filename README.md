@@ -117,8 +117,3 @@
 
 
 
-## 项目作者
-
-邮箱：shaoyayu0419@qq.com,yayushao@gmali.com
-
-
